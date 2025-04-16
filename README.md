@@ -58,13 +58,16 @@ To set up the project locally, follow these steps:
 ---
 
 2.Install the required dependencies:
-   pip install -r requirements.txt
+
+pip install -r requirements.txt
 
 
 3. Generate synthetic data and run the scripts:
+
 python generate_synthetic_data.py
 python entity_resolution.py
- 
+
+---
  
 ## Usage
 
@@ -88,22 +91,23 @@ Run the visualization script to generate a network graph:
 python visualize_network.py
 The output will be a visual representation of relationships between entities.
 
+---
+
 ## Contributing
 
 We welcome contributions from the community! Whether you're fixing bugs, adding new features, or improving documentation, your input is valuable. Here's how you can contribute:
 
 Fork the Repository : Click the "Fork" button on the top-right corner of this page.
 Clone Your Fork :
-git clone https://github.com/yourusername/entity-resolution-aml.git
+git clone https://github.com/priyakashyap/entity-resolution-aml.git
 cd entity-resolution-aml
 Create a New Branch :
-bash
-Copy
-1
 git checkout -b feature/your-feature-name
-Make Changes : Implement your changes or improvements.
-Test Your Changes : Ensure your code works as expected.
-Submit a Pull Request : Push your changes to your fork and submit a pull request to the main branch of this repository.
+
+
+### Make Changes : Implement your changes or improvements.
+### Test Your Changes : Ensure your code works as expected.
+### Submit a Pull Request : Push your changes to your fork and submit a pull request to the main branch of this repository.
  
  
 ## Guidelines for Contributors
@@ -114,11 +118,13 @@ Include tests for any new functionality.
 Document your changes in the README if necessary.
 If you're unsure about what to work on, check out the Issues tab for open tasks or suggestions.
 
-License
+---
+## License
 
 This project is licensed under the MIT License . See the LICENSE file for details.
+---
 
-Contact
+## Contact
 
 Have questions or want to collaborate? Feel free to reach out:
 
@@ -127,7 +133,7 @@ GitHub: @priyakashyap
 LinkedIn: https://www.linkedin.com/in/priyaa-kashyapp/
  
  
-##I appreciate your interest and look forward to collaborating with you!
+## I appreciate your interest and look forward to collaborating with you!
 
 
 
