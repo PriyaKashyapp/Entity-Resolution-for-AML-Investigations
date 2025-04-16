@@ -53,20 +53,8 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/priyakashyap/entity-resolution-aml.git
+   git clone https://github.com/priyakashyapp/entity-resolution-aml.git
    cd entity-resolution-aml
----
-
-2.Install the required dependencies:
-
-pip install -r requirements.txt
-
-
-3. Generate synthetic data and run the scripts:
-
-python generate_synthetic_data.py
-python entity_resolution.py
-
 ---
  
 ## Usage
@@ -129,7 +117,9 @@ This project is licensed under the MIT License . See the LICENSE file for detail
 Have questions or want to collaborate? Feel free to reach out:
 
 Email: priyakashyapp007@gmail.com
-GitHub: @priyakashyap
+
+GitHub:([@priyakashyap](https://github.com/PriyaKashyapp))
+
 LinkedIn: https://www.linkedin.com/in/priyaa-kashyapp/
  
  
