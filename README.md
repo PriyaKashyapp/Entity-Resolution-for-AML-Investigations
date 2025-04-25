@@ -106,12 +106,6 @@ Include tests for any new functionality.
 Document your changes in the README if necessary.
 If you're unsure about what to work on, check out the Issues tab for open tasks or suggestions.
 
----
-## License
-
-This project is licensed under the MIT License . See the LICENSE file for details.
----
-
 ## Contact
 
 Have questions or want to collaborate? Feel free to reach out:
